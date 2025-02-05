@@ -4,6 +4,7 @@
 - Dilarang menggunakan chatGPT dan AI sejenisnya.
 - Dibolehkan membuka dokumentasi Laravel atau website programming yang lainnya
 - Dibolehkan membukan situs pencarian seperti google dan sejenisnya.
+- Dibolehkan membuka project portofolio yang sudah ada sebagai referensi.
 
 ## Deskripsi
 Buatlah sebuah API tanpa autentikasi yang menggunakan model **Employee** dengan tabel `employees`. API ini harus menyediakan fitur CRUD dasar untuk mengelola data karyawan.
